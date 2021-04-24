@@ -1,0 +1,26 @@
+//
+// Variables for User
+//
+
+// Color Scheme
+// Change color scheme in this variables but don't remove the variables.
+$primary  : #62319b;
+$secondary: #8b8e92;
+$success  : #29d878;
+$info     : #5dbbff;
+$warning  : #fad85f;
+$danger   : #dc3545;
+$light    : #efeff3;
+$dark     : #13293d;
+
+// Don't change or remove $theme-color-scheme.
+$theme-colors: (
+  "primary"  : $primary,
+  "secondary": $secondary,
+  "success"  : $success,
+  "info"     : $info,
+  "warning"  : $warning,
+  "danger"   : $danger,
+  "light"    : $light,
+  "dark"     : $dark
+);
